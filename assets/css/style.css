@@ -103,6 +103,7 @@ section {
     -webkit-background-clip: text;
     animation: textColorMain 6s linear infinite;
     animation-delay: 2s;
+    display: inline-block;
 }
 .text-animate__none {
     position: relative;
