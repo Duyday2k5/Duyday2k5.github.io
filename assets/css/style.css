@@ -89,7 +89,7 @@ section {
 
 .home-content .text-animate {
     position: relative;
-    width: 29rem;
+    display: inline-block;
 }
 .text-animate h3 {
     position: relative;
