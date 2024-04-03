@@ -89,9 +89,9 @@ section {
 
 .home-content .text-animate {
     position: relative;
-    display: inline-block;
 }
 .text-animate h3 {
+    width: 31rem;
     position: relative;
     font-size: 3.2rem;
     font-weight: 700;
